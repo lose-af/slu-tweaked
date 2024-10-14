@@ -6,11 +6,13 @@ Modified and used by Losenone Minecraft Server.
 
 Modified sources are published in releases page, as the MCreator workspace is not easy for version control.
 
-Current version: `1.20.1.10+1`
+Current version: `1.20.1.10+2`
 
 ## Changes
 
 - Every spawnable entity will despawn when idle.
+- Decrease field boss spawn chances.
+- Smaller boss tick range (64 -> 32).
 
 # Original comment from the author
 
